@@ -34,15 +34,15 @@ header {
 }
 
 #column-1 {
-  background: #0B1AE3;
+  background: #191970;
 }
 
 #column-2 {
-  background: #0154FA;
+  background: #000080;
 }
 
 #column-3 {
-  background: #0B8CE3;
+  background: #00008B;
 }
 
 
@@ -60,26 +60,23 @@ footer {
 
 @media (min-width: 768px) {
   header {
-    background-color: #FBEF0D;
+    background-color: #0000CD ;
   }
 
   #column-1 {
-    background-color: #8BFB0D;
+    background-color: #0000FF ;
   }
 
   #column-2 {
-    background-color: #00FA15;
+    background-color: #4169E1;
   }
 
   #column-3 {
-    background-color: 00FA15;
+    background-color: #7b68EE ;
   }
 
   footer {
-    background-color: #00E4FF;
-  }
-   .col-3 {
-    width: 50%;
+    background-color: #6495ED;
   }
   
 }
@@ -88,26 +85,23 @@ footer {
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
   header {
-    background-color: #FA880F;
+    background-color: #1E90FF ;
   }
 
   #column-1 {
-    background-color: #FAA40A;
+    background-color: #00BFFF ;
   }
 
   #column-2 {
-    background-color: #FABB02;
+    background-color: #87CEFA;
   }
 
   #column-3 {
-    background-color: #E3C409;
+    background-color: #87CEEB;
   }
 
   footer {
-    background-color: FFF603;
-  }
-  .col-3 {
-    width: 33.3%;
+    background-color: #ADD8E6;
   }
    
 }
